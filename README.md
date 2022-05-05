@@ -2,7 +2,8 @@
 
 -----------------------------
 
-Dovetail Transcript Export it is a Google Chrome extension that allows you to export your Dovetail transcript directly into the Fibery rich-text field.
+Dovetail Transcript Export it is a Google Chrome extension that allows you to export your Dovetail transcript directly
+into the Fibery rich-text field.
 
 ### Currently supported features:
 
@@ -20,7 +21,8 @@ Dovetail Transcript Export it is a Google Chrome extension that allows you to ex
 
 ### Installation
 
-1. Download the last extension version (archive) from the [Releases page](https://github.com/infludb-inc/dovetail-export/releases "https://github.com/infludb-inc/dovetail-export/releases")
+1. Download the last extension version (archive) from
+   the [Releases page](https://github.com/infludb-inc/dovetail-export/releases "https://github.com/infludb-inc/dovetail-export/releases")
 
 2. Unpack this archive wherever you want on your PC
 
@@ -39,3 +41,11 @@ Dovetail Transcript Export it is a Google Chrome extension that allows you to ex
 7. Pin the extension to your Chrome toolbar as shown below
 
    ![Screenshot 2022-05-05 at 21.55.49.png](files/04a4085a-803c-49e6-a859-94d968183604.png "")
+
+### Usage
+
+1. Navigate to opened Dovetail interview page with non-empty transcript
+2. Click to extension icon and popup window should look like one below
+   ![Screenshot 2022-05-05 at 22.03.49.png](files/cd139536-29c8-4e32-ae98-fdc4d40263c0.png)
+3. Paste your Fibery access token and public id of Conversation entity from Customer Development space
+4. Click "Export Transcript"
