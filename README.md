@@ -47,5 +47,7 @@ into the Fibery rich-text field.
 1. Navigate to opened Dovetail interview page with non-empty transcript
 2. Click to extension icon and popup window should look like one below
    ![Screenshot 2022-05-05 at 22.03.49.png](files/cd139536-29c8-4e32-ae98-fdc4d40263c0.png)
-3. Paste your Fibery access token and public id of Conversation entity from Customer Development space
-4. Click "Export Transcript"
+3. Paste your Fibery access token. After you paste it, it will be remembered and you don't have to paste it again.
+[How to obtain Fibery access token](https://api.fibery.io/#generate-a-new-token)
+4. Paste public id of Conversation entity from Customer Development space
+5. Click "Export Transcript"
